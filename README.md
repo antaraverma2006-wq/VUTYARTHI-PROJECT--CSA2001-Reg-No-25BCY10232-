@@ -12,9 +12,9 @@ Features
 5. Shows all steps from start state to goal state
 
 How to run
-Open terminal or command prompt
-Navigate to the folder where main.py is saved
-Run the program using python
+1.Open terminal or command prompt
+2.Navigate to the folder where main.py is saved
+3.Run the program using python
 
 
 
