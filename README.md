@@ -10,3 +10,10 @@ Features
 3. Simple string-based puzzle representation
 4. Easy-to-read and beginner-friendly code
 5. Shows all steps from start state to goal state
+
+How to run
+Open terminal or command prompt
+Navigate to the folder where main.py is saved
+Run the program using python
+Name: Antara Verma Reg no: 25BCY10232
+
